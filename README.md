@@ -3,7 +3,7 @@
 
 #### Me chamo Vinycios Cavalcante, mas pode me chamar de "Vinny".
 
-* Sou desenvolvedor Full Stack, estou em busca da minha primeira oportunidade
+* Sou desenvolvedor Full Stack
 * Atualmente trabalho na empresa Onebitcode como Desenvolvedor Web Pleno
 * Acesse meu portfólio pessoal: [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://vinybergamo.netlify.app)
 
