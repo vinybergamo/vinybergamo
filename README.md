@@ -1,11 +1,11 @@
 
 ## Olá, Mundo <img width="30" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif">!
 
-#### Me chamo João Tupinambá, mas pode me chamar de "Tupi".
+#### Me chamo Vinycios Cavalcante, mas pode me chamar de "Vinny".
 
 * Sou desenvolvedor Full Stack, estou em busca da minha primeira oportunidade
 * Atualmente estou estudando Typescript
-* Acesse meu portfólio pessoal: [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://tupis.github.io/portfolio/)
+* Acesse meu portfólio pessoal: [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://vinybergamo.netlify.app)
 
 ## 📞 Contato
 
@@ -17,7 +17,7 @@
 ## ⚙️ GitHub Analytics
 
 <div align ="center">
-    <a href="https://github.com/tupis">
+    <a href="https://github.com/vinybergamo">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tupis&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tupis&layout=compact&langs_count=7&theme=algolia"/>
 </div>
