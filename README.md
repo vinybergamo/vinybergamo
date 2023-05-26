@@ -20,7 +20,7 @@
     <a href="https://github.com/vinybergamo">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vinybergamo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinybergamo&layout=compact&langs_count=7&theme=algolia"/>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinybergamo&theme=transparent" alt="vinybergamo" /></p>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinybergamo&theme=algolia" alt="vinybergamo" /></p>
 </div>
     
 <!--START_SECTION:waka-->
