@@ -14,17 +14,17 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinybergamo@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5521969790621)
 
-[![Vinny profile views](https://u8views.com/api/v1/github/profiles/109054862/views/day-week-month-total-count.svg)](https://u8views.com/github/vinybergamo)
-
 ## ⚙️ GitHub Analytics
 
-<div align ="center" style="display: flex;">
-    <a href="https://github.com/vinybergamo">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vinybergamo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinybergamo&layout=compact&langs_count=7&theme=algolia"/>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinybergamo&theme=algolia" alt="vinybergamo" /></p>
+<div align="center" style="display: flex; flex-direction: column; align-item:center; justify-content: center;">
+    <a href="https://u8views.com/github/vinybergamo"><img src="https://u8views.com/api/v1/github/profiles/109054862/views/day-week-month-total-count.svg"></a>
+    <div align ="center" style="display: flex;">
+        <a href="https://github.com/vinybergamo">
+        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vinybergamo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinybergamo&layout=compact&langs_count=7&theme=algolia"/>
+        <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinybergamo&theme=algolia" alt="vinybergamo" /></p>
+    </div>
 </div>
-    
 <!--START_SECTION:waka-->
 
 ```text
