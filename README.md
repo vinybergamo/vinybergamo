@@ -14,6 +14,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinybergamo@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5521969790621)
 
+[![Vinny profile views](https://u8views.com/api/v1/github/profiles/109054862/views/day-week-month-total-count.svg)](https://u8views.com/github/vinybergamo)
+
 ## ⚙️ GitHub Analytics
 
 <div align ="center" style="display: flex;">
@@ -43,8 +45,6 @@ HTML                       4 hrs 40 mins   ░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-[![Vinny profile views](https://u8views.com/api/v1/github/profiles/109054862/views/day-week-month-total-count.svg)](https://u8views.com/github/vinybergamo)
     
 ## 🛠 Principais tecnologias
 
