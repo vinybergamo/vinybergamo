@@ -44,6 +44,8 @@ HTML                       4 hrs 40 mins   ░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+[![Vinny profile views](https://u8views.com/api/v1/github/profiles/109054862/views/day-week-month-total-count.svg)](https://u8views.com/github/vinybergamo)
+    
 ## 🛠 Principais tecnologias
 
 | Marcação/Estilização | Linguagens/Techs | Bibliotecas/Frameworks | Banco de Dados | ORM's/ODM's | Outras Ferramentas |
