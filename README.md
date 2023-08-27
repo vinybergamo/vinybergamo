@@ -28,20 +28,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 August 2022 - To: 24 August 2023
+From: 17 August 2022 - To: 25 August 2023
 
-Total Time: 1,073 hrs 57 mins
+Total Time: 1,076 hrs 47 mins
 
-TypeScript                 762 hrs 6 mins  █████████████████▓░░░░░░░   70.96 %
-JavaScript                 91 hrs 33 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
-Go                         53 hrs 51 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
-Other                      34 hrs 23 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+TypeScript                 764 hrs 45 mins █████████████████▓░░░░░░░   71.02 %
+JavaScript                 91 hrs 36 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
+Go                         53 hrs 51 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
+Other                      34 hrs 23 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
 Dart                       29 hrs 9 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
-JSON                       28 hrs 18 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+JSON                       28 hrs 18 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
 Bash                       18 hrs 54 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
 YAML                       9 hrs 8 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
 Docker                     8 hrs 31 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
-Kotlin                     5 hrs 49 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Kotlin                     5 hrs 57 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ```
 
 <!--END_SECTION:waka-->
