@@ -28,16 +28,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 August 2022 - To: 28 December 2024
+From: 17 August 2022 - To: 29 December 2024
 
-Total Time: 1,952 hrs 26 mins
+Total Time: 1,955 hrs 37 mins
 
-TypeScript                 1,495 hrs 1 min ███████████████████░░░░░░   76.57 %
-JavaScript                 107 hrs 42 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
-Other                      74 hrs 32 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
+TypeScript                 1,498 hrs 11 mins███████████████████░░░░░░   76.61 %
+JavaScript                 107 hrs 42 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
+Other                      74 hrs 34 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
 Go                         64 hrs 39 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
-JSON                       54 hrs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
-Dart                       34 hrs 40 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+JSON                       54 hrs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+Dart                       34 hrs 40 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
 Bash                       28 hrs 10 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
 Docker                     14 hrs 7 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
 YAML                       13 hrs 8 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
