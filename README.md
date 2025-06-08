@@ -28,15 +28,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 August 2022 - To: 05 June 2025
+From: 17 August 2022 - To: 06 June 2025
 
-Total Time: 2,265 hrs 5 mins
+Total Time: 2,268 hrs 11 mins
 
-TypeScript                 1,750 hrs 40 mins███████████████████▒░░░░░   77.29 %
-JavaScript                 116 hrs 13 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
-Other                      108 hrs 31 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
+TypeScript                 1,753 hrs 37 mins███████████████████▒░░░░░   77.31 %
+JavaScript                 116 hrs 13 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
+Other                      108 hrs 31 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
 Go                         64 hrs 39 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
-JSON                       58 hrs 8 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+JSON                       58 hrs 9 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
 Dart                       35 hrs 3 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
 Bash                       30 hrs 32 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 Docker                     14 hrs 24 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
